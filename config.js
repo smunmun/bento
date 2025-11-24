@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'Ground News',
 			icon: 'newspaper',
-			link: 'https://reddit.com',
+			link: 'https://www.ground.news',
 		},
 		{
 			id: '6',
@@ -169,12 +169,12 @@ const CONFIG = {
 					link: 'https://en.wiktionary.org/',
 				},
 				{
-					name: 'Ground News',
-					link: 'https://www.ground.news',
+					name: 'Reddit',
+					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'The Jazz Piano Site',
+					link: 'https://www.thejazzpianosite.com/jazz-piano-lessons/',
 				},
 			],
 		},
