@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'The Jazz Piano Site',
-					link: 'https://www.thejazzpianosite.com/jazz-piano-lessons/',
+					name: 'Cronometer',
+					link: 'https://cronometer.com/',
 				},
 			],
 		},
